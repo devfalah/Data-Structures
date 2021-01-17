@@ -6,7 +6,7 @@ namespace jaggedArray
     {
         static void Main(string[] args)
         {
-           //Create an 1jagged Array 
+           //Create an jagged Array 
             var array=new int [3][];
             array[0]=new int[6]{0,0,0,0,0,0};
             array[1]=new int[5]{1,1,1,1,1};
