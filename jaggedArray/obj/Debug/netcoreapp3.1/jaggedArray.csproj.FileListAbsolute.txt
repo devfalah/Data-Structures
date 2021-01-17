@@ -1,0 +1,13 @@
+F:\csharp\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.csprojAssemblyReference.cache
+F:\csharp\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.AssemblyInfoInputs.cache
+F:\csharp\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.AssemblyInfo.cs
+F:\csharp\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.csproj.CoreCompileInputs.cache
+F:\csharp\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.exe
+F:\csharp\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.deps.json
+F:\csharp\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.runtimeconfig.json
+F:\csharp\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.runtimeconfig.dev.json
+F:\csharp\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.dll
+F:\csharp\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.pdb
+F:\csharp\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.dll
+F:\csharp\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.pdb
+F:\csharp\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.genruntimeconfig.cache
