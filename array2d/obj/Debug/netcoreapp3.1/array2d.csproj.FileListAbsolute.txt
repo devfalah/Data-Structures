@@ -1,0 +1,13 @@
+F:\csharp\array2d\bin\Debug\netcoreapp3.1\array2d.exe
+F:\csharp\array2d\bin\Debug\netcoreapp3.1\array2d.deps.json
+F:\csharp\array2d\bin\Debug\netcoreapp3.1\array2d.runtimeconfig.json
+F:\csharp\array2d\bin\Debug\netcoreapp3.1\array2d.runtimeconfig.dev.json
+F:\csharp\array2d\bin\Debug\netcoreapp3.1\array2d.dll
+F:\csharp\array2d\bin\Debug\netcoreapp3.1\array2d.pdb
+F:\csharp\array2d\obj\Debug\netcoreapp3.1\array2d.csprojAssemblyReference.cache
+F:\csharp\array2d\obj\Debug\netcoreapp3.1\array2d.AssemblyInfoInputs.cache
+F:\csharp\array2d\obj\Debug\netcoreapp3.1\array2d.AssemblyInfo.cs
+F:\csharp\array2d\obj\Debug\netcoreapp3.1\array2d.csproj.CoreCompileInputs.cache
+F:\csharp\array2d\obj\Debug\netcoreapp3.1\array2d.dll
+F:\csharp\array2d\obj\Debug\netcoreapp3.1\array2d.pdb
+F:\csharp\array2d\obj\Debug\netcoreapp3.1\array2d.genruntimeconfig.cache
