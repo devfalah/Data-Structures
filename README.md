@@ -4,7 +4,7 @@
 ## Lessones
 
 * [Lesson01](docs/slides/01/01_intro.pdf): Arrays, List
-* [Lesson02](docs/slides/02/02_stack_queue.pdf): Stacks 
+* [Lesson02](Data-Structures/stack/StackArray.cs): Stacks 
 * [Lesson03](docs/slides/03/03_analysis_sort.pdf): Queues
 * [Lesson04](docs/slides/04/04_recursion_tdd.pdf): Linked list
 * [Lesson05](docs/slides/05/05_tree_maps.pdf): Tree Maps
