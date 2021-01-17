@@ -6,6 +6,7 @@
 * Lesson01: Arrays
    * [1 dimensional array](Array/Program.cs)
    * [2 dimensional array](array2d/Program.cs)
+   * [jagged array](jaggedArray/Program.cs)
 * [Lesson02](stack/): [Stack](stack/StackArray.cs)
 * [Lesson03](docs/slides/03/03_analysis_sort.pdf): Queues
 * [Lesson04](docs/slides/04/04_recursion_tdd.pdf): Linked list
