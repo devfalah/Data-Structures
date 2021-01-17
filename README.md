@@ -3,8 +3,8 @@
 
 ## Lessones
 
-* [Lesson01](docs/slides/01/01_intro.pdf): Arrays, List
-* [Lesson02](stack/StackArray.cs): Stacks 
+* [Lesson01](docs/slides/01/01_intro.pdf): Arrays
+* [Lesson02](stack/): [Stacks] (stack/StackArray.cs)
 * [Lesson03](docs/slides/03/03_analysis_sort.pdf): Queues
 * [Lesson04](docs/slides/04/04_recursion_tdd.pdf): Linked list
 * [Lesson05](docs/slides/05/05_tree_maps.pdf): Tree Maps
