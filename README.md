@@ -8,8 +8,10 @@
    * [2 dimensional array](array2d/Program.cs)
    * [jagged array](jaggedArray/Program.cs)
 * [Lesson02](stack/): [Stack](stack/StackArray.cs)
-* [Lesson03](docs/slides/03/03_analysis_sort.pdf): Queues
-* [Lesson04](docs/slides/04/04_recursion_tdd.pdf): Linked list
+* [Lesson03](queue/): [Queues](queue/Queue.cs)
+* [Lesson04](linkedList/):
+*   * [Linked list](linkedList/SingleLinkedList.cs)
+*   * [Node](linkedList/Node.cs /)
 * [Lesson05](docs/slides/05/05_tree_maps.pdf): Tree Maps
 * [Lesson06](docs/slides/06/06_hash_maps.pdf): Hash Maps and Sets
 * [Lesson07](docs/slides/07/07_streams.pdf): Iterators, Lambdas and Streams
