@@ -10,8 +10,8 @@
 * [Lesson02](stack/): [Stack](stack/StackArray.cs)
 * [Lesson03](queue/): [Queues](queue/Queue.cs)
 * [Lesson04](linkedList/):
-*   * [Linked list](linkedList/SingleLinkedList.cs)
-*   * [Node](linkedList/Node.cs /)
+   * [Linked list](linkedList/SingleLinkedList.cs)
+   * [Node](linkedList/Node.cs)
 * [Lesson05](docs/slides/05/05_tree_maps.pdf): Tree Maps
 * [Lesson06](docs/slides/06/06_hash_maps.pdf): Hash Maps and Sets
 * [Lesson07](docs/slides/07/07_streams.pdf): Iterators, Lambdas and Streams
